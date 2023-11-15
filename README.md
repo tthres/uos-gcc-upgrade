@@ -1,2 +1,4 @@
-# uos-gcc-upgrade
-uos升级gcc脚本
+# usage
+```shell
+./gcc10_5.sh
+```
